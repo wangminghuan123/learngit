@@ -1,2 +1,2 @@
-Gis is a version control system.
-Gis is free software.
+Git is a bistributed version control system.
+Git is free software.
